@@ -44,7 +44,7 @@ public class TaskService {
                 description,
                 Task.Status.TODO,
                 priority,
-                projectId,
+                
                 null
         );
 

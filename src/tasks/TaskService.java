@@ -42,12 +42,11 @@ public class TaskService {
         Task task = new Task(
                 title,
                 description,
-                Task.Status.TODO,
-                priority,
+                
                 
                 null
         );
 
-       
+    }
     
 }
